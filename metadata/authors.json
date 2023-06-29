@@ -1,14 +1,31 @@
 [
     {
-        "name": "Pim Cuijpers",
-        "orcid": "0000-0001-5497-2743"
+        "name": "Rory A. Pfund",
+        "orcid": "0000-0002-9719-503X"
     },
     {
-        "name": "Clara Miguel",
-        "orcid": "0000-0001-5563-5896"
+        "name": "David P. Forman"
     },
     {
-        "name": "Eirini Karyotaki",
+        "name": "Shelby K. Whalen",
         "orcid": "0000-0002-0071-2599"
-    }
+    },
+    {
+        "name": "James M. Zech", 
+        "orcid": "0000-0001-8726-1884"
+    },
+      {
+        "name": "Meredith K. Ginley"
+    },
+    {
+        "name": "Samuel C. Peter" 
+    },
+    {
+        "name": "Nicholas W. McAfee" 
+       
+    },
+     {
+        "name": "James P. Whelan", 
+        "orcid": "0000-0002-2245-6450"
+    },
 ]
