@@ -1,0 +1,203 @@
+**PubMed**
+---
+Psychotherapy [MH] OR psychotherap*[All Fields] OR cbt[All Fields] OR "behavior therapies"[All Fields] OR
+"behavior therapy"[All Fields] OR "behavior therapeutic"[All Fields] OR "behavior therapeutical"[All Fields] OR
+"behavior therapeutics"[All Fields] OR "behavior therapeutist"[all Fields] OR "behavior therapeutists"[All Fields] OR
+"behavior treatment"[All Fields] OR "behavior treatments"[All Fields] OR "behaviors therapies"[All Fields] OR
+"behaviors therapy"[All Fields] OR "behaviors therapeutics"[All Fields] OR "behaviors therapeutic"[All Fields] OR
+"behaviors therapeutical"[All Fields] OR "behaviors therapeutist"[All Fields] OR "behaviors therapeutists"[All Fields]
+OR "behaviors treatment"[All Fields] OR "behaviors treatments"[All Fields] OR "behavioral therapies"[All Fields] OR
+"behavioral therapy"[All Fields] OR "behavioral therapeutics"[All Fields] OR "behavioral therapeutic"[All Fields] OR
+"behavioral therapeutical"[All Fields] OR "behavioral therapeutist"[All Fields] OR "behavioral therapeutists"[All
+Fields] OR "behavioral treatment"[All Fields] OR "behavioral treatments"[All Fields] OR "behaviour therapies"[All
+Fields] OR "behaviour therapy"[All Fields] OR "behaviour therapeutic"[All Fields] OR "behaviour therapeutical"[All
+Fields] OR "behaviour therapeutics"[All Fields] OR "behaviour therapeutist"[all Fields] OR "behaviour
+therapeutists"[All Fields] OR "behaviour treatment"[All Fields] OR "behaviour treatments"[All Fields] OR "behaviours
+therapies"[All Fields] OR "behaviours therapy"[All Fields] OR "behaviours therapeutics"[All Fields] OR "behaviours
+therapeutic"[All Fields] OR "behaviours therapeutical"[All Fields] OR "behaviours therapeutist"[All Fields] OR
+"behaviours therapeutists"[All Fields] OR "behaviours treatment"[All Fields] OR "behaviours treatments"[All Fields]
+OR "behavioural therapies"[All Fields] OR "behavioural therapy"[All Fields] OR "behavioural therapeutics"[All Fields]
+OR "behavioural therapeutic"[All Fields] OR "behavioural therapeutical"[All Fields] OR "behavioural therapeutist"[All
+Fields] OR "behavioural therapeutists"[All Fields] OR "behavioural treatment"[All Fields] OR "behavioural
+treatments"[All Fields] OR "cognition therapies"[All Fields] OR "cognition therapie"[All Fields] OR "cognition
+therapy"[All Fields] OR "cognition therapeutical"[All Fields] OR "cognition therapeutic"[All Fields] OR "cognition
+therapeutics"[All Fields] OR "cognition therapeutist"[All Fields] OR "cognition therapeutists"[All Fields] OR
+"cognition treatment"[All Fields] OR "cognition treatments"[All Fields] OR psychodynamic[All Fields] OR
+Psychoanalysis[MH] OR psychoanalysis[All Fields] OR psychoanalytic*[All Fields] OR counselling[All Fields] OR
+counseling[All Fields] OR Counseling[MH] OR "problem-solving"[All Fields] OR mindfulness[All Fields] OR
+(acceptance[All Fields] AND commitment[All Fields] ) OR "assertiveness training"[All Fields] OR "behavior
+activation"[All Fields] OR "behaviors activation"[All Fields] OR "behavioral activation"[All Fields] OR "cognitive
+therapies"[All Fields] OR "cognitive therapy"[All Fields] OR "cognitive therapeutic"[All Fields] OR "cognitive
+therapeutics"[All Fields] OR "cognitive therapeutical"[All Fields] OR "cognitive therapeutist"[All Fields] OR
+"cognitive therapeutists"[All Fields] OR "cognitive treatment"[All Fields] OR "cognitive treatments"[All Fields] OR
+"cognitive restructuring"[All Fields] OR (("compassion-focused"[All Fields] OR "compassion-focussed"[All Fields])
+AND (therapy[SH] OR therapies[All Fields] OR therapy[All Fields] OR therape*[All Fields] OR therapis*[All
+Fields]OR Therapeutics [OR treatment*[All Fields])) OR ((therapy[SH] OR therapies[All Fields]
+OR therapy [All Fields] OR therape*[All Fields] OR therapis*[All Fields] OR Therapeutics[MH] OR treatment*[All
+Fields]) AND constructivist*[All Fields]) OR "metacognitive therapies"[All Fields] OR "metacognitive therapy"[All
+Fields] OR "metacognitive therapeutic"[All Fields] OR "metacognitive therapeutics"[All Fields] OR "metacognitive
+therapeutical"[All Fields] OR "metacognitive therapeutist"[All Fields] OR "metacognitive therapeutists"[All Fields] OR
+"metacognitive treatment"[All Fields] OR "metacognitive treatments"[All Fields] OR "meta-cognitive therapies"[All
+Fields] OR "meta-cognitive therapy"[All Fields] OR "meta-cognitive therapeutic"[All Fields] OR "meta-cognitive
+therapeutics"[All Fields] OR "meta-cognitive therapeutical"[All Fields] OR "meta-cognitive therapeutist"[All Fields]
+OR "meta-cognitive therapeutists"[All Fields] OR "meta-cognitive treatment"[All Fields] OR "meta-cognitive
+treatments"[All Fields] OR "solution-focused therapies"[All Fields] OR "solution-focused therapy"[All Fields] OR
+"solution-focused therapeutic"[All Fields] OR "solution-focused therapeutics"[All Fields] OR "solution-focused
+therapeutical"[All Fields] OR "solution focused therapies"[All Fields] OR "solution focused therapy"[All Fields] OR
+"solution focused therapeutic"[All Fields] OR "solution focused therapeutics"[All Fields] OR "solution focused
+therapeutical"[All Fields]OR "solution-focussed therapies"[All Fields] OR "solution-focussed therapy"[All Fields] OR
+"solution-focussed therapeutic"[All Fields] OR "solution-focussed therapeutics"[All Fields] OR "solution-focussed
+therapeutical"[All Fields]OR "solution focussed therapies"[All Fields] OR "solution focussed therapy"[All Fields] OR
+"solution focussed therapeutic"[All Fields] OR "solution focussed therapeutics"[All Fields] OR "solution focussed
+therapeutical"[All Fields] OR "self-control therapies"[All Fields] OR "self-control therapy"[All Fields] OR "self-control
+therapeutics"[All Fields] OR "self-control therapeutical"[All Fields] OR "self-control therapeutic"[All Fields] OR "selfcontrol training"[All Fields] OR "self-control trainings"[All Fields] OR "self control therapies"[All Fields] OR "self
+control therapy"[All Fields] OR "self control therapeutics"[All Fields] OR "self control therapeutical"[All Fields] OR
+"self control therapeutic"[All Fields] OR "self control training"[All Fields] OR "self control trainings"[All Fields]
+AND
+(Depressive Disorder[MH] OR Depression[MH]OR dysthymi*[All Fields] OR "affective disorder"[All Fields]OR
+"affective disorders"[All Fields] OR "mood disorder"[All Fields] OR "mood disorders"[All Fields] OR depression*[All
+Fields] OR depressive*[All Fields] OR "dysthymic disorder"[MeSH Terms])
+Limits: RCTs
+
+**Embase**
+---
+#1
+'psychotherapy'/exp OR 'psychotherapy' OR 'psychotherapies' OR 'psychotherapeutics' OR 'psychotherapeutical' OR
+'cognitive therapy'/exp OR 'cognitive behavior therapy'/exp OR 'behavior therapy'/exp OR ´cbt´ OR ´cognitive
+behavioural therapy´ OR ´cognitive behavioural therapies´ OR cognitive behavioral therapy´ OR 'cognitive behavioral
+therapies' OR 'behavior therapy' OR 'behavior therapies' OR 'behaviour therapy' OR 'behaviour therapies' OR 'cognition
+therapy' OR 'cognitive therapies' OR 'cognitive therapy' OR 'cognitive therapeutic' OR 'cognitive therapeutics' OR
+'cognitive therapeutical' OR 'cognitive therapeutist' OR 'cognitive therapeutists' OR 'cognitive treatment' OR 'cognitive
+treatments' OR 'cognitive restructuring' OR 'cognition therapies' OR 'cognition therapie' OR 'cognition therapeutical' OR
+'cognition therapeutic' OR 'cognition therapeutics' OR 'cognition therapeutist' OR 'cognition therapeutists' OR 'cognition
+treatment' OR 'cognition treatments' OR 'behavior therapeutic' OR 'behavior therapeutical' OR 'behavior therapeutics'
+OR 'behavior therapeutist' OR 'behavior therapeutists' OR 'behavior treatment' OR 'behavior treatments' OR 'behaviors
+therapies' OR 'behaviors therapy' OR 'behaviors therapeutics' OR 'behaviors therapeutic' OR 'behaviors therapeutical'
+OR 'behaviors therapeutist' OR 'behaviors therapeutists' OR 'behaviors treatment' OR 'behaviors treatments' OR
+'behavioral therapies' OR 'behavioral therapy' OR 'behavioral therapeutics' OR 'behavioral therapeutic' OR 'behavioral
+therapeutical' OR 'behavioral therapeutist' OR 'behavioral therapeutists' OR 'behavioral treatment' OR 'behavioral
+treatments' OR 'behaviour therapeutic' OR 'behaviour therapeutical' OR 'behaviour therapeutics' OR 'behaviour
+therapeutist' OR 'behaviour therapeutists' OR 'behaviour treatment' OR 'behaviour treatments' OR 'behaviours therapies'
+OR 'behaviours therapy' OR 'behaviours therapeutics' OR 'behaviours therapeutic' OR 'behaviours therapeutical' OR
+'behaviours therapeutist' OR 'behaviours therapeutists' OR 'behaviours treatment' OR 'behaviours treatments' OR
+'behavioural therapies' OR 'behavioural therapy' OR 'behavioural therapeutics' OR 'behavioural therapeutic' OR
+'behavioural therapeutical' OR 'behavioural therapeutist' OR 'behavioural therapeutists' OR 'behavioural treatment' OR
+'behavioural treatments' OR 'behavior activation' OR 'behaviors activation' OR 'behavioral activation' OR 'behaviour
+activation' OR 'behaviours activation' OR 'behavioural activation' OR 'psychoanalytic therapy'/exp OR 'psychodynamic'
+OR 'psychodynamical' OR 'psychoanalysis' OR 'psychoanalytical' OR 'counselling'/exp OR 'counseling'/exp OR
+'counselling' OR 'counseling' OR 'problem-solving' OR 'problem solving' OR 'supportive therapy' OR 'metacognitive
+therapy' OR 'metacognitive therapies' OR 'metacognitive therapeutic' OR 'metacognitive therapeutics' OR
+'metacognitive therapeutical' OR 'metacognitive therapeutist' OR 'metacognitive therapeutists' OR 'metacognitive
+treatment' OR 'metacognitive treatments' OR 'meta-cognitive therapy' OR 'meta-cognitive therapies' OR 'meta-cognitive
+therapeutic' OR 'meta-cognitive therapeutics' OR 'meta-cognitive therapeutical' OR 'meta-cognitive therapeutist' OR
+'meta-cognitive therapeutists' OR 'meta-cognitive treatment' OR 'meta-cognitive treatments' OR 'solution-focused
+therapies' OR 'solution focused therapies' OR 'solution-focussed therapies' OR 'solution focused therapies' OR 'solutionfocused therapy' OR 'solution focused therapy' OR 'solution-focussed therapy' OR 'solution focused therapy' OR
+'solution-focused therapeutic' OR 'solution focused therapeutic' OR 'solution-focussed therapeutic' OR 'solution
+focussed therapeutic' OR 'solution-focused therapeutics' OR 'solution focused therapeutics' OR 'solution-focussed
+therapeutics' OR 'solution focused therapeutics' OR 'solution-focused therapeutical' OR 'solution focused therapeutical'
+OR 'solution-focussed therapeutical' OR 'solution focused therapeutical' OR 'self-control therapies' OR 'self control
+therapies' OR 'self-control therapy' OR 'self control therapy' OR 'self-control therapeutics' OR 'self control therapeutics'
+OR 'self-control therapeutical' OR 'self control therapeutical' OR 'self-control therapeutic' OR 'self control therapeutic'
+OR 'self-control training' OR 'self control training' OR 'self control trainings' OR 'self-control trainings' OR
+'mindfulness' OR 'acceptance commitment' OR 'acceptance and commitment' OR 'assertiveness training'
+#2
+'compassion-focused' OR 'compassion-focussed' OR 'compassion focused' OR 'compassion focussed' OR 'constructivist'
+OR 'constructivists'
+#3
+'therapies' OR 'therapy' OR 'therapeutics' OR 'therapist' OR 'treatment' OR 'treatments'
+#4
+Combine: #2 AND #3
+#5: #1 OR #4
+#6
+'depressive disorder'/exp OR 'depression'/exp OR 'depressive' OR 'major depression'/exp OR 'major depressive
+disorder'/exp OR 'depression' OR 'depressions' OR 'depressive' OR 'dysthymic disorder'/exp OR 'dysthymic disorder'
+OR 'dysthymia'/exp OR 'dysthymic' OR 'mood disorder'/exp OR 'affective disorder'/exp OR 'affective disorder' OR
+'affective disorders' OR 'mood disorder' OR 'mood disorders'
+Combine: #5 AND #6
+Limits: RCTs
+PsycINFO
+(DE "Psychotherapy" OR "Psychotherapy" OR "psychotherapies" OR "psychotherapeutic" OR "psychotherapeutical"
+OR "psychotherapeutics" OR DE "Behavior Therapy" OR DE "Cognitive Behavior Therapy" OR "CBT" OR "behavior
+therapies" OR "behavior therapy" OR "behavior therapeutic" OR "behavior therapeutical" OR "behavior therapeutics" 
+OR "behavior therapeutist" OR "behavior therapeutists" OR "behavior treatment" OR "behavior treatments" OR
+"behaviors therapies" OR "behaviors therapy" OR "behaviors therapeutics" OR "behaviors therapeutic" OR "behaviors
+therapeutical" OR "behaviors therapeutist" OR "behaviors therapeutists" OR "behaviors treatment" OR "behaviors
+treatments" OR "behavioral therapies" OR "behavioral therapy" OR "behavioral therapeutics" OR "behavioral
+therapeutic" OR "behavioral therapeutical" OR "behavioral therapeutist" OR "behavioral therapeutists" OR "behavioral
+treatment" OR "behavioral treatments" OR "behaviour therapies" OR "behaviour therapy" OR "behaviour therapeutic"
+OR "behaviour therapeutical" OR "behaviour therapeutics" OR "behaviour therapeutist" OR "behaviour therapeutists"
+OR "behaviour treatment" OR "behaviour treatments" OR "behaviours therapies" OR "behaviours therapy" OR
+"behaviours therapeutics" OR "behaviours therapeutic" OR "behaviours therapeutical" OR "behaviours therapeutist"
+OR "behaviours therapeutists" OR "behaviours treatment" OR "behaviours treatments" OR "behavioural therapies" OR
+"behavioural therapy" OR "behavioural therapeutics" OR "behavioural therapeutic" OR "behavioural therapeutical" OR
+"behavioural therapeutist" OR "behavioural therapeutists" OR "behavioural treatment" OR "behavioural treatments" OR
+"cognition therapies" OR "cognition therapie" OR "cognition therapy" OR "cognition therapeutical" OR "cognition
+therapeutic" OR "cognition therapeutics" OR "cognition therapeutist" OR "cognition therapeutists" OR "cognition
+treatment" OR "cognition treatments" OR "cognitive therapies" OR "cognitive therapy" OR "cognitive therapeutic" OR
+"cognitive therapeutics" OR "cognitive therapeutical" OR "cognitive therapeutist" OR "cognitive therapeutists" OR
+"cognitive treatment" OR "cognitive treatments" OR "cognitive restructuring" OR DE "Emotion Focused Therapy" OR
+DE "Psychoanalysis" OR "psychoanalysis" OR "psychoanalytic" OR "psychoanalytical "OR DE "Psychodynamic
+Psychotherapy" OR "psychodynamic" OR DE "Psychotherapeutic Counseling" OR "counselling" OR "counseling" OR
+"problem-solving" OR "problem solving" OR "mindfulness" OR ("acceptance" AND "commitment") OR "assertiveness
+training" OR "behavior activation" OR "behaviors activation" OR "behavioral activation" OR "behaviour activation"
+OR "behaviours activation" OR "behavioural activation" OR "metacognitive therapies" OR "metacognitive therapy" OR
+"metacognitive therapeutic" OR "metacognitive therapeutics" OR "metacognitive therapeutical" OR "metacognitive
+therapeutist" OR "metacognitive therapeutists" OR "metacognitive treatment" OR "metacognitive treatments" OR
+"meta-cognitive therapies" OR "meta-cognitive therapy" OR "meta-cognitive therapeutic" OR "meta-cognitive
+therapeutics" OR "meta-cognitive therapeutical" OR "meta-cognitive therapeutist" OR "meta-cognitive therapeutists"
+OR "meta-cognitive treatment" OR "meta-cognitive treatments" OR DE "Solution Focused Therapy" OR "solutionfocused therapies" OR "solution-focused therapy" OR "solution-focused therapeutic" OR "solution-focused
+therapeutics" OR "solution-focused therapeutical" OR "solution-focussed therapies" OR "solution-focussed therapy"
+OR "solution-focussed therapeutic" OR "solution-focussed therapeutics" OR "solution-focussed therapeutical" OR
+"solution focused therapies" OR "solution focused therapy" OR "solution focused therapeutic" OR "solution focused
+therapeutics" OR "solution focused therapeutical" OR "solution focussed therapies" OR "solution focussed therapy" OR
+"solution focussed therapeutic" OR "solution focussed therapeutics" OR "solution focussed therapeutical" OR "selfcontrol therapies" OR "self-control therapy" OR "self-control therapeutics" OR "self-control therapeutical" OR "selfcontrol therapeutic" OR "self-control training" OR "self-control trainings" OR "self control therapies" OR "self control
+therapy" OR "self control therapeutics" OR "self control therapeutical" OR "self control therapeutic" OR "self control
+training" OR "self control trainings" OR (("compassion-focused" OR "compassion-focussed" OR "compassion focused"
+OR "compassion focussed") AND ("therapies" OR "therapy" OR "therapie" OR "therapist" OR "therapists" OR
+"therapeut" OR "treatment" OR "treatments")) OR ("constructivist" AND ("therapies" OR "therapy" OR "therapie" OR
+"therapist" OR "therapists" OR "therapeut" OR "treatment" OR "treatments")))
+AND
+(DE "Depression (Emotion)" "depressive disorder" OR "depression" OR "depressions" OR "depressive" OR DE "Major
+Depression" OR "major depression" OR "major depressive disorder" OR DE "Dysthymic Disorder" OR "Dysthymia"
+OR " dysthymic disorder" OR DE "Affective Disorders" OR "Affective Disorder" OR "affective disorders" OR "Mood
+Disorder" OR "Mood disorders")
+Limits: Methodology is ME=(treatment outcome/clinical trial): papers (December 2014)
+
+**Cochrane**
+---
+#1 MeSH descriptor: [Depressive Disorder] explode all trees : 6, 777
+#2 ''depress*'' (Word variations have been searched) : 51, 768
+#3 #1 or #2 : 51, 783
+#4 ''major depressive disorder'' (Word variations have been searched) : 5, 435
+#5 #3 or #4 : 51, 783
+#6 MeSH descriptor: [Dysthymic Disorder] explode all trees : 129
+#7 ''dysthymi*'' (Word variations have been searched) : 649
+#8 #6 or #7 : 649
+#9 #5 or #8 : 51, 800
+#10 ''mood disorder'' (Word variations have been searched) :4, 034
+#11 ''affective disorder'' (Word variations have been searched) : 2, 882
+#12 #10 or #11 : 6, 055
+#13 #9 or #12 : 53, 227
+#14 MeSH descriptor: [Psychotherapy] explode all trees : 13, 568
+#15 ''psychotherap*'' (Word variations have been searched) : 7, 758
+#16 ''CBT'' (Word variations have been searched) : 2, 029
+#17 ''Cognitive Behav* therap* (Word variations have been searched) : 8, 893
+#18 #14 or #15 or #16 or #17 : 20, 795
+#19 'psychodynamic'' (Word variations have been searched) : 469
+#20 MeSH descriptor: [Psychoanalysis] explode all trees : 13
+#21 ''psychoanaly*'' (Word variations have been searched) : 345
+#22 MeSH descriptor: [Counseling] explode all trees : 2, 783
+#23 ''counseling*'' (Word variations have been searched) : 6, 913
+#24 ''problem solving'' (Word variations have been searched) : 2, 867
+#25 #18 or #19 or #20 or #21 or #22 or #23 or #24 : 28, 149
+#26 ''acceptance commitment'' (Word variations have been searched) : 168
+#27 ''assertiveness training'' (Word variations have been searched) :231
+#28 ''behavior activation'' (Word variations have been searched) : 663
+#29 ''mindfulness'' (Word variations have been searched) : 466
+#30 ''metacognitive therap*'' (Word variations have been searched) :56
+#31 ''solution focused therap*'' (Word variations have been searched) :858
+#32 ''self control training'' (Word variations have been searched): 5850
+#33 #25 or #26 or #27 or #28 or #29 or #30 or #31 or #32 : 32, 748
+#34 ''Randomized Controlled Trial'':ti,ab,kw (Word variations have been searched) : 120, 901
+#35 #13 and #33 and #34 in Trials: 4,614
+Limit: publication year: 1970-2018

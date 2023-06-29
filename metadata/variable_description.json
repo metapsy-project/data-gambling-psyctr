@@ -1,0 +1,8 @@
+{
+    "study": "Author of the study",
+    "year": "Year of the study",
+    "es": "calculated effect size",
+    "se": "standard error of the calculated effect size",
+    "condition_arm1": "condition in the first arm (cbt = cognitive-behavioral therapy, pst = problem-solving therapy)",
+    "trggrp": "target group"
+}
