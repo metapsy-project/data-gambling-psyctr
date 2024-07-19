@@ -10,26 +10,6 @@
 ---
 TI ("intervention" OR "treat*" OR "therapy") AND TI "gambl*"
 
-**SienceDirect**
+**Cochrane Reviews & Cochrane Trials**
 ---
-Title: (intervention OR treatment OR therapy) AND gambling
-
-**Web of Science Core Collection**
----
-(TI=("intervention" OR "treat*" OR "therapy")) AND TI=("gambl*")
-
-**Academic Search Complete**
----
-TI ("intervention" OR "treat*" OR "therapy") AND TI "gambl*"
-
-**Clinicaltrials.gov**
----
-Condition (gambling)
-
-**Google Scholar**
----
-allintitle: intervention OR treatment OR therapy AND gambling
-
-**International Standard Randomised Controlled Trial Number**
----
-Condition (gambling)
+Title abstract keyword ("gambling") AND ("therapy" OR "intervention" OR "treatment")
