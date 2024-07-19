@@ -1,17 +1,19 @@
 {
-    "database.hits": 5409,
-    "database.hits.duplicates.removed": 2469,
-    "records.screened": 2469,
-    "full.text.assessed.for.eligibility": 70,
+    "database.hits": 3629,
+    "other.sources": 1,
+    "database.hits.duplicates.removed": 2169,
+    "records.screened": 2169,
+    "full.text.assessed.for.eligibility": 125,
     "full.text.excluded.reasons": 
     {
-        "No randomization to 2+ groups with appropriate control group": 26,
-        "No cognitive and/or behavioral techniques": 6,
-        "Involved pharmacotherapy": 19,
-        "Secondary analysis": 3,
-        "No problem or disordered gambling": 1,
-        "Participants not aged 18 years or older": 1, 
-        "No post-treatment assessment reported": 2
+        "Study not yet complete": 25,
+        "Active control group": 22,
+        "Involved pharmacotherapy": 18,
+        "No randomization to 2+ groups": 7,
+        "No psychological treatment": 6,
+        "No problem/gambling disorder": 5,
+        "Insufficent data to calculate effect sizes": 1, 
+        "No relevant outcomes": 1
     },
-    "included": 27
+    "included": 38
 }
