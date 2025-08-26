@@ -1,19 +1,19 @@
 {
-    "database.hits": 3629,
+    "database.hits": 29825,
     "other.sources": 1,
-    "database.hits.duplicates.removed": 2169,
-    "records.screened": 2169,
-    "full.text.assessed.for.eligibility": 125,
+    "database.hits.duplicates.removed": 20205,
+    "records.screened": 20205,
+    "full.text.assessed.for.eligibility": 93,
     "full.text.excluded.reasons": 
     {
-        "Study not yet complete": 25,
-        "Active control group": 22,
-        "Involved pharmacotherapy": 18,
-        "No randomization to 2+ groups": 7,
-        "No psychological treatment": 6,
-        "No problem/gambling disorder": 5,
-        "Insufficent data to calculate effect sizes": 2, 
+        "Study not yet complete": 12,
+        "Not randomized": 12,
+        "No minimal or waitlist control condition": 11,
+        "No problem gambling or gambling disorder": 9,
+        "No psychological treatment": 3,
+        "Insufficient data to calculate effect sizes": 2,
+        "No adults": 1,
         "No relevant outcomes": 1
     },
-    "included": 39
+    "included": 42
 }
