@@ -1,19 +1,19 @@
 {
-    "database.hits": 29825,
-    "other.sources": 1,
-    "database.hits.duplicates.removed": 20205,
-    "records.screened": 20205,
-    "full.text.assessed.for.eligibility": 93,
+    "database.hits": 30841,
+    "other.sources": 0,
+    "database.hits.duplicates.removed": 9847,
+    "records.screened": 20994,
+    "full.text.assessed.for.eligibility": 99,
     "full.text.excluded.reasons": 
     {
-        "Study not yet complete": 12,
-        "Not randomized": 12,
-        "No minimal or waitlist control condition": 11,
+        "Study not yet complete": 13,
+        "Not randomized": 13,
+        "No minimal or waitlist control condition": 13,
         "No problem gambling or gambling disorder": 9,
-        "No psychological treatment": 3,
+        "No psychological treatment": 4,
         "Insufficient data to calculate effect sizes": 2,
         "No adults": 1,
         "No relevant outcomes": 1
     },
-    "included": 42
+    "included": 43
 }
